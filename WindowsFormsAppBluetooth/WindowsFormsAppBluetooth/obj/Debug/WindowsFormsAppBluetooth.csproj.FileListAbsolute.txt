@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\bin\Debug\WindowsFormsAppBluetooth.exe.config
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\bin\Debug\WindowsFormsAppBluetooth.exe
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\bin\Debug\WindowsFormsAppBluetooth.pdb
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.exe
+C:\Users\Dell\source\repos\WindowsFormsAppBluetooth\WindowsFormsAppBluetooth\obj\Debug\WindowsFormsAppBluetooth.pdb
